@@ -1,0 +1,19 @@
+CYBERSECURITY INCIDENT EXTRACTION REPORT
+========================================
+Target Year Evaluated: 2021
+Total Incident Count: 299
+Total Financial Loss: 15873.41 Million USD
+Average Financial Loss: 53.09 Million USD
+
+Incident Distribution per Attack Type:
+ - Phishing: 41
+ - SQL Injection: 59
+ - Malware: 49
+ - DDoS: 47
+ - Ransomware: 55
+ - Man-in-the-Middle: 48
+
+Output File Summary Details:
+ - Filtered CSV: Dela Cruz_TUPM-1251-26_incidents_filtered.csv
+ - JSON Summary: Dela Cruz_TUPM-1251-26_incidents_summary.json
+ - Verified Backup: Dela Cruz_TUPM-1251-26_incidents_summary.json

@@ -1,0 +1,12 @@
+{
+    "student_last_name": "Dela Cruz",
+    "student_id": "TUPM-1251-26",
+    "operating_system": "Android",
+    "user_behavior_class": 2,
+    "total_records_in_dataset": 700,
+    "records_matching_os": 554,
+    "records_in_target_behavior": 114,
+    "average_battery_drain_mah": 887.1140350877193,
+    "average_data_usage_mb": 451.43859649122805,
+    "row_count_verified": true
+}
